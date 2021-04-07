@@ -1,1 +1,3 @@
 # LC-Python
+
+## EASY
